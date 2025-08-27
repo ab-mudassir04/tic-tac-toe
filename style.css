@@ -1,5 +1,6 @@
 body {
 background-image: url('tic-tac-toe.jpg');
+background-repeat: no-repeat;
 }
 #main{
     display: flex;

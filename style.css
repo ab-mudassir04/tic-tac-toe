@@ -1,5 +1,6 @@
 body {
 background-image: url('tic-tac-toe.jpg');
+background-repeat: no-repeat;   
 }
 #main{
     display: flex;
@@ -52,5 +53,6 @@ button{
     font-size: 18px;
     font-weight: 700;
 }
+
 
 
